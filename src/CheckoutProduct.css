@@ -1,0 +1,38 @@
+.star_Icon{
+    color: yellow;
+}
+
+.checkoutProduct{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.checkoutProduct_info{
+    padding-left: 20px;
+    margin-top:15px;
+}
+
+.checkoutProduct_info > button{
+    background: #f0c14b;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #97ce31 #846a29;
+    color: #111;
+}
+
+.checkoutProduct_image{
+    object-fit: contain;
+    width: 100px;
+    height: 180px;
+}
+
+.checkoutProduct_rating{
+    display: flex;
+}
+
+.checkoutPrduct_title{
+    font-size: 15px;
+    font-weight: 800;
+}
+
